@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//sami179609.github.io/meetingCard/static/css/main.0b3a4049.chunk.css",
+    "main.js": "/https//sami179609.github.io/meetingCard/static/js/main.b2582bf5.chunk.js",
+    "main.js.map": "/https//sami179609.github.io/meetingCard/static/js/main.b2582bf5.chunk.js.map",
+    "runtime-main.js": "/https//sami179609.github.io/meetingCard/static/js/runtime-main.d9aebc11.js",
+    "runtime-main.js.map": "/https//sami179609.github.io/meetingCard/static/js/runtime-main.d9aebc11.js.map",
+    "static/js/2.5fec2edd.chunk.js": "/https//sami179609.github.io/meetingCard/static/js/2.5fec2edd.chunk.js",
+    "static/js/2.5fec2edd.chunk.js.map": "/https//sami179609.github.io/meetingCard/static/js/2.5fec2edd.chunk.js.map",
+    "static/js/3.9b2923fc.chunk.js": "/https//sami179609.github.io/meetingCard/static/js/3.9b2923fc.chunk.js",
+    "static/js/3.9b2923fc.chunk.js.map": "/https//sami179609.github.io/meetingCard/static/js/3.9b2923fc.chunk.js.map",
+    "index.html": "/https//sami179609.github.io/meetingCard/index.html",
+    "static/css/main.0b3a4049.chunk.css.map": "/https//sami179609.github.io/meetingCard/static/css/main.0b3a4049.chunk.css.map",
+    "static/js/2.5fec2edd.chunk.js.LICENSE.txt": "/https//sami179609.github.io/meetingCard/static/js/2.5fec2edd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9aebc11.js",
+    "static/js/2.5fec2edd.chunk.js",
+    "static/css/main.0b3a4049.chunk.css",
+    "static/js/main.b2582bf5.chunk.js"
+  ]
+}
